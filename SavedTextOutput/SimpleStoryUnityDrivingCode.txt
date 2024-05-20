@@ -1,0 +1,16 @@
+Dylan, Walk_In
+Jessica, Walk_In
+Dylan, Spill_Drink
+Dylan, Approach_Jessica
+Dylan, Chat_Jessica
+Jessica, Spill_Drink
+Dylan, Walk_Out
+Dylan, Walk_In
+Dylan, Approach_Jessica
+Dylan, Chat_Jessica
+Jessica, Approach_Dylan
+Jessica, Chat_Dylan
+Dylan, Approach_Jessica
+Dylan, Chat_Jessica
+Jessica, React_Positive
+Dylan, Walk_Out
